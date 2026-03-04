@@ -5,4 +5,4 @@
 3. No requiere dependecias externas
 
 ##Descripcion
-Este trbajao es una plataforma de seguimiento academico que permite a los estudiantes gestionar sus Tareas
+Este trbajao es una plataforma de seguimiento academico que permite a los estudiantes gestionar sus Tareass
